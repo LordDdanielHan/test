@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.5">
   <diagram name="Page-1" id="XovYSc9VxgBBoyLTzxwy">
-    <mxGraphModel dx="1865" dy="1708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1285" dy="1361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -212,43 +212,43 @@
           <mxGeometry y="212.2" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SDU8DpZkJm8AxWShPPcR-15" value="Profilepage&#xa;&lt;&lt;extends JFrame&gt;&gt;&#xa;&#xa;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=42;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="185" y="-590" width="265" height="385" as="geometry" />
+          <mxGeometry x="185" y="-590" width="305" height="385" as="geometry" />
         </mxCell>
         <mxCell id="SDU8DpZkJm8AxWShPPcR-16" value="-  mainPanel: JPanel" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SDU8DpZkJm8AxWShPPcR-15">
-          <mxGeometry y="42" width="265" height="31" as="geometry" />
+          <mxGeometry y="42" width="305" height="31" as="geometry" />
         </mxCell>
         <mxCell id="SDU8DpZkJm8AxWShPPcR-17" value="-  accImage: JLabel" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SDU8DpZkJm8AxWShPPcR-15">
-          <mxGeometry y="73" width="265" height="31" as="geometry" />
+          <mxGeometry y="73" width="305" height="31" as="geometry" />
         </mxCell>
         <mxCell id="SDU8DpZkJm8AxWShPPcR-18" value="-  name: JLabel" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SDU8DpZkJm8AxWShPPcR-15">
-          <mxGeometry y="104" width="265" height="31" as="geometry" />
+          <mxGeometry y="104" width="305" height="31" as="geometry" />
         </mxCell>
         <mxCell id="SDU8DpZkJm8AxWShPPcR-19" value="-  nameHeader: JLabel" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SDU8DpZkJm8AxWShPPcR-15">
-          <mxGeometry y="135" width="265" height="31" as="geometry" />
+          <mxGeometry y="135" width="305" height="31" as="geometry" />
         </mxCell>
         <mxCell id="SDU8DpZkJm8AxWShPPcR-20" value="-  nameHeader: JLabel" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SDU8DpZkJm8AxWShPPcR-15">
-          <mxGeometry y="166" width="265" height="31" as="geometry" />
+          <mxGeometry y="166" width="305" height="31" as="geometry" />
         </mxCell>
         <mxCell id="SDU8DpZkJm8AxWShPPcR-21" value="-  pass: JLabel" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SDU8DpZkJm8AxWShPPcR-15">
-          <mxGeometry y="197" width="265" height="31" as="geometry" />
+          <mxGeometry y="197" width="305" height="31" as="geometry" />
         </mxCell>
         <mxCell id="SDU8DpZkJm8AxWShPPcR-22" value="-  passwordHeader: JLabel" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SDU8DpZkJm8AxWShPPcR-15">
-          <mxGeometry y="228" width="265" height="31" as="geometry" />
+          <mxGeometry y="228" width="305" height="31" as="geometry" />
         </mxCell>
         <mxCell id="SDU8DpZkJm8AxWShPPcR-23" value="-  resetPassword: JButton" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SDU8DpZkJm8AxWShPPcR-15">
-          <mxGeometry y="259" width="265" height="31" as="geometry" />
+          <mxGeometry y="259" width="305" height="31" as="geometry" />
         </mxCell>
         <mxCell id="SDU8DpZkJm8AxWShPPcR-24" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="SDU8DpZkJm8AxWShPPcR-15">
-          <mxGeometry y="290" width="265" height="8" as="geometry" />
+          <mxGeometry y="290" width="305" height="8" as="geometry" />
         </mxCell>
         <mxCell id="SDU8DpZkJm8AxWShPPcR-25" value="+  &lt;&lt;Constructor&gt;&gt; Profilepage()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SDU8DpZkJm8AxWShPPcR-15">
-          <mxGeometry y="298" width="265" height="29" as="geometry" />
+          <mxGeometry y="298" width="305" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="SDU8DpZkJm8AxWShPPcR-27" value="-  jButton2ActionPerformed(ActionEvent): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SDU8DpZkJm8AxWShPPcR-15">
-          <mxGeometry y="327" width="265" height="29" as="geometry" />
+        <mxCell id="SDU8DpZkJm8AxWShPPcR-27" value="-  resetPasswordActionPerformed(ActionEvent): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SDU8DpZkJm8AxWShPPcR-15">
+          <mxGeometry y="327" width="305" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="SDU8DpZkJm8AxWShPPcR-28" value="-  jButton1ActionPerformed(ActionEvent): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SDU8DpZkJm8AxWShPPcR-15">
-          <mxGeometry y="356" width="265" height="29" as="geometry" />
+        <mxCell id="SDU8DpZkJm8AxWShPPcR-28" value="-  homePageActionPerformed(ActionEvent): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SDU8DpZkJm8AxWShPPcR-15">
+          <mxGeometry y="356" width="305" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
