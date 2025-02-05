@@ -25,7 +25,7 @@
         <mxCell id="hxfTvokO1WppnXc-I8BG-30" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Doctor&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hxfTvokO1WppnXc-I8BG-28">
           <mxGeometry y="-11.818181818181818" width="120" height="59.09090909090909" as="geometry" />
         </mxCell>
-        <mxCell id="hxfTvokO1WppnXc-I8BG-56" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;#ID&lt;br&gt;&lt;/div&gt;&lt;div&gt;*Name&lt;/div&gt;&lt;div&gt;*Telephone&lt;/div&gt;&lt;div&gt;*Number&lt;/div&gt;&lt;div&gt;*Emaill&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hxfTvokO1WppnXc-I8BG-28">
+        <mxCell id="hxfTvokO1WppnXc-I8BG-56" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;#ID&lt;br&gt;&lt;/div&gt;&lt;div&gt;*Name&lt;/div&gt;&lt;div&gt;*Telephone&lt;/div&gt;&lt;div&gt;*Emaill&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hxfTvokO1WppnXc-I8BG-28">
           <mxGeometry x="10" y="39.39050505050501" width="60" height="51.21212121212122" as="geometry" />
         </mxCell>
         <mxCell id="hxfTvokO1WppnXc-I8BG-31" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -66,6 +66,18 @@
             <mxPoint x="5" y="10" as="sourcePoint" />
             <mxPoint x="5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hxfTvokO1WppnXc-I8BG-57" value="" style="group;align=left;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="520" y="260" width="120" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="hxfTvokO1WppnXc-I8BG-58" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hxfTvokO1WppnXc-I8BG-57">
+          <mxGeometry width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hxfTvokO1WppnXc-I8BG-59" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Patient&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hxfTvokO1WppnXc-I8BG-57">
+          <mxGeometry width="120" height="43.333333333333336" as="geometry" />
+        </mxCell>
+        <mxCell id="hxfTvokO1WppnXc-I8BG-60" value="&lt;div align=&quot;left&quot;&gt;#ID&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Name&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Telephone&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Dateofbirth&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*GP&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hxfTvokO1WppnXc-I8BG-57">
+          <mxGeometry x="10" y="49.998888888888885" width="60" height="43.333333333333336" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
