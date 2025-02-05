@@ -115,8 +115,17 @@
         <mxCell id="hxfTvokO1WppnXc-I8BG-74" value="&lt;div align=&quot;left&quot;&gt;#ID&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Type&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Date&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Time&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="10" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hxfTvokO1WppnXc-I8BG-75" value="&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;#ID&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Date&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Time&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Doctor&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Theatre&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="159.99888888888887" width="60" height="43.333333333333336" as="geometry" />
+        <mxCell id="hxfTvokO1WppnXc-I8BG-78" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="510" y="420" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hxfTvokO1WppnXc-I8BG-79" value="&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hxfTvokO1WppnXc-I8BG-78">
+          <mxGeometry width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hxfTvokO1WppnXc-I8BG-80" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Payment&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hxfTvokO1WppnXc-I8BG-78">
+          <mxGeometry width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxfTvokO1WppnXc-I8BG-81" value="&lt;div align=&quot;left&quot;&gt;#ID&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Date&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Time&lt;/div&gt;*Item" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hxfTvokO1WppnXc-I8BG-78">
+          <mxGeometry y="40" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
