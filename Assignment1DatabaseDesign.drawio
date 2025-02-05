@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.11">
   <diagram name="Page-1" id="4bEmmgy40c0Yq6NT1J7E">
-    <mxGraphModel dx="724" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="1485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="hxfTvokO1WppnXc-I8BG-26" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Operation&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hxfTvokO1WppnXc-I8BG-27">
           <mxGeometry width="120" height="43.333333333333336" as="geometry" />
         </mxCell>
-        <mxCell id="hxfTvokO1WppnXc-I8BG-34" value="&lt;div align=&quot;left&quot;&gt;#ID&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Datetime&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Doctor&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Theatre&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hxfTvokO1WppnXc-I8BG-27">
+        <mxCell id="hxfTvokO1WppnXc-I8BG-34" value="&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;#ID&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Date&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Time&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Doctor&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Theatre&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hxfTvokO1WppnXc-I8BG-27">
           <mxGeometry x="10" y="49.998888888888885" width="60" height="43.333333333333336" as="geometry" />
         </mxCell>
         <mxCell id="hxfTvokO1WppnXc-I8BG-28" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -31,11 +31,14 @@
         <mxCell id="hxfTvokO1WppnXc-I8BG-31" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="320" y="360" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="hxfTvokO1WppnXc-I8BG-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hxfTvokO1WppnXc-I8BG-31">
+        <mxCell id="hxfTvokO1WppnXc-I8BG-32" value="&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hxfTvokO1WppnXc-I8BG-31">
           <mxGeometry width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="hxfTvokO1WppnXc-I8BG-33" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Appointment&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hxfTvokO1WppnXc-I8BG-31">
           <mxGeometry width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxfTvokO1WppnXc-I8BG-61" value="&lt;div align=&quot;left&quot;&gt;#ID&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Date&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Time&lt;/div&gt;*HospitalDoctor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hxfTvokO1WppnXc-I8BG-31">
+          <mxGeometry x="20" y="35" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hxfTvokO1WppnXc-I8BG-54" value="" style="group;rotation=90;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="375" y="280" width="10" height="80" as="geometry" />
@@ -78,6 +81,42 @@
         </mxCell>
         <mxCell id="hxfTvokO1WppnXc-I8BG-60" value="&lt;div align=&quot;left&quot;&gt;#ID&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Name&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Telephone&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Dateofbirth&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*GP&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hxfTvokO1WppnXc-I8BG-57">
           <mxGeometry x="10" y="49.998888888888885" width="60" height="43.333333333333336" as="geometry" />
+        </mxCell>
+        <mxCell id="hxfTvokO1WppnXc-I8BG-64" value="" style="group;align=left;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="680" y="260" width="120" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="hxfTvokO1WppnXc-I8BG-65" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hxfTvokO1WppnXc-I8BG-64">
+          <mxGeometry width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hxfTvokO1WppnXc-I8BG-66" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Outpatient&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hxfTvokO1WppnXc-I8BG-64">
+          <mxGeometry width="120" height="43.333333333333336" as="geometry" />
+        </mxCell>
+        <mxCell id="hxfTvokO1WppnXc-I8BG-67" value="&lt;div align=&quot;left&quot;&gt;#ID&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Name&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Telephone&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Dateofbirth&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*GP&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hxfTvokO1WppnXc-I8BG-64">
+          <mxGeometry x="10" y="49.998888888888885" width="60" height="43.333333333333336" as="geometry" />
+        </mxCell>
+        <mxCell id="hxfTvokO1WppnXc-I8BG-68" value="" style="group;align=left;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="680" y="100" width="120" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="hxfTvokO1WppnXc-I8BG-69" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hxfTvokO1WppnXc-I8BG-68">
+          <mxGeometry width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hxfTvokO1WppnXc-I8BG-70" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Resident&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hxfTvokO1WppnXc-I8BG-68">
+          <mxGeometry width="120" height="43.333333333333336" as="geometry" />
+        </mxCell>
+        <mxCell id="hxfTvokO1WppnXc-I8BG-71" value="&lt;div align=&quot;left&quot;&gt;#ID&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Ward&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*AdmissionDate&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Operation&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*TestResult&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hxfTvokO1WppnXc-I8BG-68">
+          <mxGeometry x="10" y="49.998888888888885" width="60" height="43.333333333333336" as="geometry" />
+        </mxCell>
+        <mxCell id="hxfTvokO1WppnXc-I8BG-72" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-50" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hxfTvokO1WppnXc-I8BG-73" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Bloodtest_result&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-50" width="120" height="43.333333333333336" as="geometry" />
+        </mxCell>
+        <mxCell id="hxfTvokO1WppnXc-I8BG-74" value="&lt;div align=&quot;left&quot;&gt;#ID&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Type&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Date&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Time&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxfTvokO1WppnXc-I8BG-75" value="&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;#ID&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Date&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Time&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Doctor&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Theatre&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="159.99888888888887" width="60" height="43.333333333333336" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
