@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.11">
   <diagram name="Page-1" id="4bEmmgy40c0Yq6NT1J7E">
-    <mxGraphModel dx="600" dy="319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -328,7 +328,7 @@
         <mxCell id="hxfTvokO1WppnXc-I8BG-30" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Doctors&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="n5tfa-G228gNt84pr7fv-217" vertex="1">
           <mxGeometry width="281.43" height="59.09166666666667" as="geometry" />
         </mxCell>
-        <mxCell id="hxfTvokO1WppnXc-I8BG-56" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;#ID&lt;br&gt;&lt;/div&gt;&lt;div&gt;*Name&lt;/div&gt;&lt;div&gt;*Telephone&lt;/div&gt;&lt;div&gt;*Emaill&lt;/div&gt;&lt;div&gt;*Department&lt;/div&gt;&lt;div&gt;*Address&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="n5tfa-G228gNt84pr7fv-217" vertex="1">
+        <mxCell id="hxfTvokO1WppnXc-I8BG-56" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;#ID&lt;br&gt;&lt;/div&gt;&lt;div&gt;*Name&lt;/div&gt;&lt;div&gt;*Telephone&lt;/div&gt;&lt;div&gt;*Email&lt;/div&gt;&lt;div&gt;*Department&lt;/div&gt;&lt;div&gt;*Address&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="n5tfa-G228gNt84pr7fv-217" vertex="1">
           <mxGeometry x="23.452500000000004" y="51.20934339031335" width="140.715" height="51.21277777777778" as="geometry" />
         </mxCell>
         <mxCell id="-ttDfJ6nMThdbvhb9NZb-13" value="Performed by" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="n5tfa-G228gNt84pr7fv-217" vertex="1">
