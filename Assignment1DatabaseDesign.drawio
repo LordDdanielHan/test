@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.11">
   <diagram name="Page-1" id="4bEmmgy40c0Yq6NT1J7E">
-    <mxGraphModel dx="683" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1418" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
         <mxCell id="hxfTvokO1WppnXc-I8BG-66" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Outpatients&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="n5tfa-G228gNt84pr7fv-24" vertex="1">
           <mxGeometry width="120" height="43.333333333333336" as="geometry" />
         </mxCell>
-        <mxCell id="n5tfa-G228gNt84pr7fv-8" value="*Appointment" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="n5tfa-G228gNt84pr7fv-24">
+        <mxCell id="n5tfa-G228gNt84pr7fv-8" value="*Department" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="n5tfa-G228gNt84pr7fv-24">
           <mxGeometry x="10" y="30" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="n5tfa-G228gNt84pr7fv-172" value="" style="group" vertex="1" connectable="0" parent="n5tfa-G228gNt84pr7fv-20">
@@ -286,7 +286,7 @@
         <mxCell id="n5tfa-G228gNt84pr7fv-21" value="" style="group" vertex="1" connectable="0" parent="n5tfa-G228gNt84pr7fv-106">
           <mxGeometry width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="hxfTvokO1WppnXc-I8BG-71" value="&lt;div align=&quot;left&quot;&gt;*Ward&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*AdmissionDate&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Operation&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;oTestResult&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="n5tfa-G228gNt84pr7fv-21" vertex="1">
+        <mxCell id="hxfTvokO1WppnXc-I8BG-71" value="&lt;div align=&quot;left&quot;&gt;*Ward&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*AdmissionDate&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="n5tfa-G228gNt84pr7fv-21" vertex="1">
           <mxGeometry x="10" y="30" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hxfTvokO1WppnXc-I8BG-70" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Residents&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="n5tfa-G228gNt84pr7fv-21" vertex="1">
@@ -393,6 +393,12 @@
         </mxCell>
         <mxCell id="n5tfa-G228gNt84pr7fv-195" value="&lt;div align=&quot;left&quot;&gt;#ID&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Location&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*Type&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;*&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="n5tfa-G228gNt84pr7fv-192">
           <mxGeometry y="35" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="n5tfa-G228gNt84pr7fv-205" value="Takes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="197" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n5tfa-G228gNt84pr7fv-206" value="Done by" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="143" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
